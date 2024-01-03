@@ -1,9 +1,8 @@
-5
 ## SimpleNote API Documentation
 
 ### Overview
 
-[SimpleNote](https://simpleapi-onqz.onrender.com/) is a RESTful API for a simple note-taking application using Node.js and Express.js, with MongoDB as the database. The API allows users to create, retrieve, update, and delete text notes.
+SimpleNote is a RESTful API for a simple note-taking application using Node.js and Express.js, with MongoDB as the database. The API allows users to create, retrieve, update, and delete text notes.
 
 ### Base URL
 
@@ -120,7 +119,3 @@ The API uses JSON Web Tokens (JWT) for authentication and bcrypt for password en
   ```bash
   npm test
   ```
-
-### Deployment
-
-- I have deployed this API on [render](https://simpleapi-onqz.onrender.com/)
